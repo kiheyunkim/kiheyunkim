@@ -16,8 +16,6 @@
  * [Fixroid(junior project)](https://github.com/kiheyunkim/TeamProject-Fixroid) - with Unity3D(C#) - 2016
    [Fixroid Google Play Sotre](https://play.google.com/store/apps/details?id=com.TeamSix.Fixroid)
  
- * [Chess (with IOCP Server)](https://github.com/kiheyunkim/senierproject-ChessServer) - with MFC, IOCP(C++) - 2017
- 
  * [RE:CODe(senier project 2nd)](https://github.com/kiheyunkim/senierproject-RECODe) - with Unity3D(C#) - 2018
  
  * [Gomoku(오목)](https://github.com/kiheyunkim/Gomoku) - with Express(JavaScript) - 2019
@@ -39,9 +37,21 @@
 
 * [C++ STL copy Project](https://github.com/kiheyunkim/Containers) - with C++ - 2017
 
+* [Chess (with IOCP Server)](https://github.com/kiheyunkim/senierproject-ChessServer) - with MFC, IOCP(C++) - 2017
+
 * [TCP Server Packet Generator](https://github.com/kiheyunkim/PacketGenerator) - with C++ - 2018
 
-* auto Deploy Server - With Kotlin (WIP) - 2022
+* auto Deploy Server(Naver internal service copy) - 2021~(WIP) 
+  * [deploy shell scripts](https://github.com/kiheyunkim/deployServerShell) - with shell script
+  * [auto deploy server Environment scripts](https://github.com/kiheyunkim/deployServer) - with docker
+  * [auto deploy server Front](https://github.com/kiheyunkim/AutoDeployServerFront) - with react
+  * [auto deploy server Back-end](https://github.com/kiheyunkim/AutoDeployServer) - with kotlin Spring
+
+* heroku Project - 2022~(WIP) 
+  * [heroku batch](https://github.com/kiheyunkim/herokuBatch) - with Spring Batch(Kotlin)
+  * [heroku web]() - WIP
+
+
 
  
 ## Interest

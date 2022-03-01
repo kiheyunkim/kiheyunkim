@@ -37,7 +37,7 @@
 
 * [C++ STL copy Project](https://github.com/kiheyunkim/Containers) - with C++ - 2017
 
-* [Chess (senier project 2nd)](https://github.com/kiheyunkim/senierproject-ChessServer) - with MFC, IOCP(C++) - 2017
+* [Chess (senier project 1st)](https://github.com/kiheyunkim/senierproject-ChessServer) - with MFC, IOCP(C++) - 2017
 
 * [TCP Server Packet Generator](https://github.com/kiheyunkim/PacketGenerator) - with C++ - 2018
 

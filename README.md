@@ -27,9 +27,9 @@
  * [simple chatbot](https://github.com/kiheyunkim/SimpleChatBot) - with Express(JavaScript) - 2020
  
  * Tech Tree(private repo) - with Android(Kotlin) - 2020
-   [Tech Tree Google Play Store](https://play.google.com/store/apps/details?id=com.kiheyunkim.skillstack)
-   AppBatch(private repo) - with Spring Batch(Kotlin)
-   App ApiServer(private repo) - with Kotlin Spring(Kotlin)
+   [Tech Tree Google Play Store](https://play.google.com/store/apps/details?id=com.kiheyunkim.skillstack)   
+   AppBatch(private repo) - with Spring Batch(Kotlin)   
+   App ApiServer(private repo) - with Kotlin Spring(Kotlin)   
    
  * [Simple Chatting - Java Renewal](https://github.com/kiheyunkim/SpringChatting) - 2020
  
